@@ -1,0 +1,5 @@
+grant codeBase "file:/home/alejandra/Documentos/P06/RMIfuncionando/calculadora"
+
+{
+permission java.security.AllPermission;
+};

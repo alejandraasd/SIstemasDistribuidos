@@ -1,0 +1,3 @@
+grant codeBase "file:/home/alejandra/Documentos/P06/RMIfuncionando/computepi" {
+    permission java.security.AllPermission;
+};
